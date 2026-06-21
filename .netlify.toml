@@ -1,0 +1,8 @@
+[[redirects]]
+  from = "/*"
+  to = "https://bittyjs.com/"
+  status = 301
+  force = true
+
+[build]
+  publish = "_site/"
